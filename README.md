@@ -13,7 +13,3 @@
 ##Automation
 - Send Rules and Regulations
 - Send email to pay bill every month
-
-- ddd
-
--
